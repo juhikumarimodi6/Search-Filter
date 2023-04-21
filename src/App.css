@@ -1,0 +1,17 @@
+.inputbox {
+display: flex;
+justify-content: center;
+align-items: center;
+margin:auto;
+}
+
+
+.list {
+  list-style-type: none;
+  margin:0px;
+  padding:0px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin:auto
+}
